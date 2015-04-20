@@ -49,6 +49,28 @@ a:hover {
 	width: 240px;
 }
 
+#info button {
+	cursor: pointer;
+	border-radius: 15px;
+	background: #13A6F4;
+	border: 0px;
+	color: #fff;
+	padding: 10px 20px;
+	font-size: 1em;
+	transition: background .15s ease-in-out;
+   -moz-transition: background .15s ease-in-out;
+   -webkit-transition: background .15s ease-in-out;
+}
+
+#info button:focus {
+	border: none;
+	outline:none;
+}
+
+#info button:hover {
+	background: #F59629;
+}
+
 #container {
 	width: 800px;
 	margin: auto;

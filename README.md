@@ -1,2 +1,2 @@
 # sudoku
-A basic Sudoku game and solver. 
+A basic Sudoku solver. 
